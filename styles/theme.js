@@ -20,7 +20,8 @@ const theme = createTheme({
         MuiOutlinedInput: {
             styleOverrides: {
                 root: {
-                    borderRadius:20
+                    borderRadius: 20,
+                    backgroundColor:"white"
                 }
             }
         }
